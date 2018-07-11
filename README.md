@@ -1,6 +1,5 @@
 # Angular, NgRx, Angular Material, Flexbox layout Starter with Wijmo
 by [@raghunad](https://github.com/raghunad/)
-Raghu
 
 
 ## Table of Content
@@ -11,7 +10,7 @@ Raghu
   * [Make It Your Own](#make-it-your-own)
   * [Features](#features)
   * [Stack](#stack)
-  * [Changelog](https://github.com/raghunad/ng-starter/blob/master/CHANGELOG.md)
+  * [Changelog](https://github.com/raghunad/angular6-ng-starter/blob/master/CHANGELOG.md)
 
 
 ## Getting started
